@@ -1,6 +1,7 @@
 {
   "base-sepolia": {
     "hubs": "0x0d3c0101671ad26cb6e69bcc4cfb44c6e16928f1",
-    "passkeys": "0x5869a2ae141e09ad784f88de85970653262e4c6a"
+    "passkeys": "0x5869a2ae141e09ad784f88de85970653262e4c6a",
+    "usdt": "0xd63fbb4ba5dc8c6ae93b904b6865ddab5bc354d0"
  }
 }
