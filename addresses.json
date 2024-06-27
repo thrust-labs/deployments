@@ -4,7 +4,8 @@
     "passkeys": "0xbff69938fc986823020bf0b3663cc14a5d7a4f32",
     "points": "0xddac8fc42822c46d40d16dc31103c87688f75e05",
     "roles": "0xbc0cde585b99842a690b42aa973ecfd701e7c573",
-    "usdt": "0x514491163d638e0351d952f574b3f5eeac98631f"
+    "usdt": "0x514491163d638e0351d952f574b3f5eeac98631f",
+    "stellar-swap": "0x39ec47cd7fab218b3d8c9378a27c44f5ed464bd5"
  },
   "bsc-testnet": {
     "hubs": "0x549c312eaf6bc03cdf9f093cebad57ab675a596c",
