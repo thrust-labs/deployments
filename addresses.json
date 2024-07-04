@@ -1,7 +1,7 @@
 {
   "base-sepolia": {
     "hubs": "0x9dda55726032fc56b9bc9ee5f6dc2737fc10f071",
-    "passkeys": "0xa1fa4b644a96f25b2f1524198dd177e64224cf73",
+    "passkeys": "0xf17845d6e6dfb1408c5454b102fca1929f512d19",
     "points": "0xa934110de093f3dcb2faf45500880a6a2dc2389b",
     "roles": "0x884f9a1cbf03471c3552c7cce48614682155b2cb",
     "usd": "0x514491163d638e0351d952f574b3f5eeac98631f",
