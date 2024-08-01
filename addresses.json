@@ -1,11 +1,11 @@
 {
   "base-sepolia": {
-    "hubs": "0x2b18e829dffa9d8615e5872822d456b4192b67c3",
-    "passkeys": "0x49fb1a5950d17d9facc4dbca2973ba48ee10459d",
-    "points": "0x46bf9cb51844aee8c3666e194288c1ce4b77b372",
-    "roles": "0xb787f2e3e4d122d47e2720f754e571f26a148f11",
+    "hubs": "0xd9e78cbb81c61e6e31adca072a0484c58fcf4de7",
+    "passkeys": "0xce4efa583dc5d5ba3e3976242ecd8123a2b6ce04",
+    "points": "0x824be0e175fb7f2a0ae7acce3d256d8f1dadac64",
+    "roles": "0x60db9f4981f200b1cf6c986a6075aaedd2894b27",
     "usd": "0x514491163d638e0351d952f574b3f5eeac98631f",
-    "stellarSwap": "0x28652df1cfa4aa9c1d004e44197a51635e420043",
+    "stellarSwap": "0xd443c53eed3cbe32f5ce73477180312eeecb811a",
     "forwarder": "0xe8ab4d543209d63389f273868119c1d0e27b31e3"
  },
   "bsc-testnet": {
